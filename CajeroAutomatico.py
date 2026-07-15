@@ -1,16 +1,16 @@
 # ===========================================
 # PROGRAMA: CAJERO AUTOMÁTICO
-# Autor: Dominic Novella
+# Autor: Dominic Novella 3ro de secundaria
 # ===========================================
 
-saldo = 5000
-pin_correcto = "5678"
+saldo = 20000
+pin_correcto = "9012"
 
 print("===================================")
-print("     BIENVENIDO AL CAJERO DEL BCP")
+print("     CAJERO INTERBANK")
 print("===================================")
 
-pin = input("Ingrese su clave PIN: ")
+pin = input("Ingresar PIN: ")
 
 if pin == pin_correcto:
 
