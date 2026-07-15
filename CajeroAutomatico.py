@@ -3,14 +3,14 @@
 # Autor: Dominic Novella 3ro de secundaria
 # ===========================================
 
-saldo = 20000
-pin_correcto = "9012"
+saldo = 6900
+pin_correcto = "3456"
 
 print("===================================")
-print("     CAJERO INTERBANK")
+print("     CAJERO DEL BACON BBVA")
 print("===================================")
 
-pin = input("Ingresar PIN: ")
+pin = input("Por favor ingresar su PIN: ")
 
 if pin == pin_correcto:
 
